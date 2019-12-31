@@ -1,0 +1,19 @@
+div.latar {
+  width: 1340px;
+  height: 800px;
+  background-image: radial-gradient(circle at top right, white, red 110%);
+}
+div.satu {
+  width: 750px;
+  height: 450px;
+  border: 2px solid black;
+  margin: 0 auto;
+  background-image: radial-gradient(ellipse at bottom, white, blue);
+}
+div.dua {
+  width: 750px;
+  height: 300px;
+  border: 2px solid black;
+  margin: 0 auto;
+  background-image: radial-gradient(circle at left, white, blue, white);
+}
